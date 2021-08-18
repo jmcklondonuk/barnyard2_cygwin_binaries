@@ -1,4 +1,4 @@
-# Barnyard2 for Windows 10 x86
+# Barnyard2 for Windows 10 x64
 * Compiled on 18.8.2021
 * Tested with Snort 2.9.18 and NPCAP 1.50
 * Barnyard2.exe is bundled together with Cygwin DLLs
